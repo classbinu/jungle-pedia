@@ -17,7 +17,7 @@
 - HTML, JavaScript, CSS
 - CSS Framewordk: [Pico.css](https://picocss.com/)
 
-> 빠른 개발을 위해 기본적인 태그만으로 적절한 스타일을 입혀주는 pico css 프레임 워크를 활용하였습니다.
+> 빠른 개발을 위해 기본적인 태그만으로 적절한 스타일을 적용시켜주는 Pico.css 프레임 워크를 활용하였습니다.
 
 ## 기술적 챌린지
 ### 면접 질문을 어떻게 만들까?

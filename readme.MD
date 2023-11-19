@@ -1,4 +1,5 @@
-# pickme-page
+# Jungle pedia
+언제나 손쉽게 기술 면접 대비하기
 
 [https://junglepedia.netlify.app](https://junglepedia.netlify.app/)
 

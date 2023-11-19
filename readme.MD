@@ -1,5 +1,5 @@
 # Jungle pedia
-언제나 손쉽게 기술 면접 대비하기
+모의 기술 면접 질문 생성 서비스
 
 [https://junglepedia.netlify.app](https://junglepedia.netlify.app/)
 
@@ -16,7 +16,7 @@
 
 ## 기술 스택
 - HTML, JavaScript, CSS
-- CSS Framewordk: [Pico.css](https://picocss.com/)pico css
+- CSS Framewordk: [Pico.css](https://picocss.com/)
 
 > 빠른 개발을 위해 기본적인 태그만으로 적절한 스타일을 입혀주는 pico css 프레임 워크를 활용하였습니다.
 

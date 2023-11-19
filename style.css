@@ -55,7 +55,6 @@
   justify-content: center;
   align-items: center;
   min-height: calc(
-    100vh - 70px
+    100vh - 300px
   ); /* 네브바 높이와 푸터 높으만큼 빼서 최소 높이 설정 */
-  padding-bottom: 320px;
 }

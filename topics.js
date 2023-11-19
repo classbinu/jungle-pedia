@@ -867,6 +867,21 @@ const topics = [
   "참조에 의한 호출을 사용할 때 어떤 데이터 유형들이 전달되고 공유되는지 설명하세요.",
   "참조에 의한 호출의 장점과 단점은 무엇인가요?",
   "참조에 의한 호출을 효과적으로 사용하기 위한 주의사항은 무엇인가요?",
+  "웹 보안(Web Security)은 무엇이며 왜 중요한가요?",
+  "XSS(Cross-Site Scripting) 공격은 무엇이며 어떻게 방지할 수 있나요?",
+  "CSRF(Cross-Site Request Forgery) 공격은 무엇이며 어떻게 방지할 수 있나요?",
+  "SQL Injection(SQL 삽입) 공격은 무엇이며 어떻게 방지할 수 있나요?",
+  "웹 애플리케이션 방화벽(Web Application Firewall, WAF)은 어떻게 동작하며 왜 사용하나요?",
+  "CORS(Cross-Origin Resource Sharing) 정책은 무엇이며 어떻게 구성하나요?",
+  "HTTPS(SSL/TLS)의 중요성은 무엇이며 어떻게 구현하나요?",
+  "웹 쿠키와 세션 관리에 대해 설명하세요.",
+  "웹 보안 헤더(예: Content Security Policy, X-Frame-Options)는 무엇이며 어떻게 사용하나요?",
+  "보안 인증(Authentication)과 권한 부여(Authorization)의 차이를 설명하세요.",
+  "OWASP Top Ten 웹 보안 취약점 중 몇 가지를 소개하고 방어하는 방법을 설명하세요.",
+  "웹 보안 테스트와 취약성 검사를 어떻게 수행하나요?",
+  "보안 관련 취약점 패치와 업데이트를 어떻게 관리하나요?",
+  "웹 보안에 관련된 최근 트렌드나 동향은 무엇인가요?",
+  "웹 보안 인증서 및 인증기관에 대해 설명하세요.",
 ];
 
 export default topics;

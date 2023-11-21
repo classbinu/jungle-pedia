@@ -1141,6 +1141,22 @@ const topics = [
   "실제로 버퍼 오버플로우나 스택 오버플로우 공격을 경험한 적이 있나요? 경험을 공유해보세요.",
   "버퍼 오버플로우와 스택 오버플로우에 대한 최근 사례나 새로운 대응 방법을 알고 있나요?",
   "소프트웨어 개발 시 버퍼 오버플로우와 스택 오버플로우를 방지하기 위한 좋은 관행은 무엇인가요?",
+  "3-way handshake란 무엇인가요?",
+  "TCP 연결 설정을 위해 3-way handshake를 왜 사용하나요?",
+  "3-way handshake에서 어떤 세그먼트가 어떤 역할을 하나요?",
+  "3-way handshake 중에 어떤 문제가 발생할 수 있나요?",
+  "3-way handshake 과정에서의 각 단계를 설명해보세요.",
+  "3-way handshake를 통해 연결을 설정하는 동안에 어떤 보안 고려 사항이 있을까요?",
+  "3-way handshake와 4-way handshake의 차이점은 무엇인가요?",
+  "SYN Flooding 공격이란 무엇이며, 3-way handshake와 어떤 관련이 있나요?",
+  "TCP 연결 설정 중에 3-way handshake가 완료되지 않는 경우에는 어떻게 대응해야 하나요?",
+  "3-way handshake를 사용하지 않고 연결을 설정할 수 있는 다른 프로토콜은 무엇인가요?",
+  "3-way handshake의 각 단계에서 사용되는 TCP 플래그들은 어떤 것이 있고, 각각의 의미는 무엇인가요?",
+  "3-way handshake의 세 단계 중에 어떤 단계에서 에러가 발생하면 연결 설정이 실패하나요?",
+  "3-way handshake를 통해 연결이 설정된 후에 데이터 전송이 시작되는 과정을 설명해보세요.",
+  "TCP 연결 해제 과정에서는 어떤 프로세스를 거치나요?",
+  "TCP 연결 해제를 위한 4-way handshake 과정을 설명해보세요.",
+  "3-way handshake와 4-way handshake의 주요 용도는 무엇인가요?",
 ];
 
 export default topics;
